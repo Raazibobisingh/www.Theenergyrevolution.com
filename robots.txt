@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Sitemap: https://www.theenergyrevolution.org/sitemap.xml
